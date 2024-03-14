@@ -8,5 +8,23 @@
   },
   "keywords": [],
   "author": "Simranjeet Singh",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@istanbuljs/nyc-config-typescript": "^1.0.2",
+    "@types/aws-lambda": "^8.10.136",
+    "@types/chai": "^4.3.12",
+    "@types/mocha": "^10.0.6",
+    "@types/node": "^20.11.27",
+    "@typescript-eslint/eslint-plugin": "^7.2.0",
+    "chai": "^5.1.0",
+    "esbuild-register": "^3.5.0",
+    "eslint": "^8.57.0",
+    "eslint-config-prettier": "^9.1.0",
+    "mocha": "^10.3.0",
+    "nyc": "^15.1.0",
+    "prettier": "^3.2.5",
+    "tsconfig-paths": "^4.2.0",
+    "typescript": "^5.4.2",
+    "typescript-json-decoder": "^1.0.11"
+  }
 }
